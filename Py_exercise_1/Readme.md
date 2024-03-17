@@ -58,13 +58,13 @@ python main.py > output.txt
 
 ## Project Diagram
 ```
-project_directory/               # Root directory of your project
+project_directory/               # Root directory of the project
 │
 ├── data/                       # Directory for storing data files
 │   ├── population_data.json    # JSON file with population data
 │   └── deathrate_data.csv      # CSV file with death rate data
 │
-├── config.ini                  # Configuration file
+├── config.ini                  # Configuration file for data collection script
 │
 ├── main-script.py                     # Main Python script
 │
